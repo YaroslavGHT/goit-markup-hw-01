@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+}
+.section1{
+    background-color: #2E2F42;
+}
+.section1 h1{
+    font-family: Roboto;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.section1 button{
+    background-color: #4D5AE5;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
